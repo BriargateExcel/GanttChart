@@ -1,2 +1,2 @@
 # GanttChart
-Excel application to create Gantt Charts
+Excel workbook to create Gantt Charts
