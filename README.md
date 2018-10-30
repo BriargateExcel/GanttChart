@@ -1,4 +1,4 @@
-# GanttChart
+# Gantt Chart
 This is an Excel workbook to create Gantt Charts  
 There is an instruction sheet included in the workbook.
 ## Usage  
